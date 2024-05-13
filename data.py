@@ -3,7 +3,8 @@ import mediapipe as mp
 import time
 import pyautogui
 import mysql.connector
-
+#bla bla bla
+#bla bla bla
 mydb = mysql.connector.connect(
   host="localhost",
   user="yourusername",
